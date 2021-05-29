@@ -1,3 +1,4 @@
 # Digit-Recognition
 
-Demo Convolutional Neural Network using default MNIST dataset from Keras using Tensorflow/Tensorflow-gpu
+Demo Digit Classifier using Convolutional Neural Network.
+Default MNIST dataset from Keras used with Tensorflow/Tensorflow-gpu.
